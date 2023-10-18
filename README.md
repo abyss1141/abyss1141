@@ -1,3 +1,4 @@
+![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
 <h2 align="left">
   👋 Hi,
 </h2>
