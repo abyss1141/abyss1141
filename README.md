@@ -3,4 +3,14 @@
 - 🌱 I’m currently learning .netcore and vue.js
 - 📫 How to reach me .. Well u can email me at danielsallehco@gmail.com
 
-![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Faaronksaunders%2Fbuild-your-first-ionic-vue-app-18kj&psig=AOvVaw2X3P1yHYNXd2giAEgRp_vU&ust=1697685123568000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNij34fQ_oEDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Faaronksaunders%2Fbuild-your-first-ionic-vue-app-18kj&psig=AOvVaw2X3P1yHYNXd2giAEgRp_vU&ust=1697685123568000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNij34fQ_oEDFQAAAAAdAAAAABAE)
+<p align="center">
+  🎓 KNOWLEDGE
+</p>
+<p align="center">
+  <a href="https://vuetifyjs.com" target="_blank">
+    <img alt="Vuetify Logo" width="100" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
+  </a>
+ <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo">
+ </a>
+
+</p>
