@@ -37,7 +37,10 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
-
+<p>
+  3 years of experience in .NET and C#. I have created dozens of web apps, backends, software, and drivers using C# as my main programming language.
+  Most of the web apps use monolithic architecture but there are some that use microservices. It depends based on the project that I'm working on and the requirement of the user/customer.
+</p>
 
 
 
