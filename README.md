@@ -21,7 +21,7 @@
     </a>
     <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" target="_blank" rel="noopener noreferrer"><img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt=".net logo">
     </a>
-    <a href="https://wiki.postgresql.org/wiki/Main_Page" target="_blank" rel="noopener noreferrer"><img height="100" src="https://w7.pngwing.com/pngs/358/849/png-transparent-postgresql-database-logo-database-symbol-blue-text-logo-thumbnail.png" alt="pg logo">
+    <a href="https://wiki.postgresql.org/wiki/Main_Page" target="_blank" rel="noopener noreferrer"><img height="100" src="[https://w7.pngwing.com/pngs/358/849/png-transparent-postgresql-database-logo-database-symbol-blue-text-logo-thumbnail.png](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png)https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="pg logo">
     </a>
 </p>
 
