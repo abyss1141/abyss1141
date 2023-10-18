@@ -24,7 +24,7 @@
     </a>
     <a href="https://wiki.postgresql.org/wiki/Main_Page" target="_blank" rel="noopener noreferrer"><img height="100" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="pg logo">
     </a>
-      <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img height="100" src="https://assets.stickpng.com/images/62a9c7c08ff6441a2952dad3.png)https://assets.stickpng.com/images/62a9c7c08ff6441a2952dad3.png" alt="docker logo">
+      <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img height="100" src="https://assets.stickpng.com/images/62a9c7c08ff6441a2952dad3.png" alt="docker logo">
     </a>
 </p>
 
