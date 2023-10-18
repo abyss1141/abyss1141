@@ -5,7 +5,7 @@
  If you are interested in working together you can reach me at <a href="mailto:danielsallehco@gmail.com">danielsallehco@gmail.com</a>
 
 <h2 align="left">
-  <ins>🎓 KNOWLEDGE</ins>
+  🎓 KNOWLEDGE
 </h2>
 <p>
   - proficient in:
