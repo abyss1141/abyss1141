@@ -50,9 +50,9 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
-
-<p>
-</p>
+  
+<p>&nbsp;</p>
+  
 <p>
   Also 3 years in developing Frontend website using VueJs with Typescript. I prefer to use typescript nowadays as it is very strict and helpful in ensuring a low-bug environment. Some of the design frameworks that I use are Vuetify, Bootstrap, and Tailwind. Depends on the request of the customer or project requirements. I still have the skills to develop HTML and PHP websites but I prefer to use a modern framework.
 </p>
