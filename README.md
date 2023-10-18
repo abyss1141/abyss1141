@@ -1,8 +1,8 @@
 <h2 align="left">
   👋 Hi,
 </h2>
- I’m @abyss1141 / Daniel. A web developer based in Malaysia.
- If you are interested in working together you can reach me at <a href="mailto:danielsallehco@gmail.com">danielsallehco@gmail.com</a>
+ I’m @abyss1141 / Daniel. A web developer based in Malaysia. Currently using .Net, Vuejs, and Typescript to build websites and software. With 6 years of coding experience, and 3 years working professionally. 
+ If you are interested in working together feel free to reach me at <a href="mailto:danielsallehco@gmail.com">danielsallehco@gmail.com</a>
 
 <h2 align="left">
   🎓 KNOWLEDGE
@@ -24,5 +24,8 @@
     </a>
     <a href="https://wiki.postgresql.org/wiki/Main_Page" target="_blank" rel="noopener noreferrer"><img height="100" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="pg logo">
     </a>
+      <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img height="100" src="https://assets.stickpng.com/images/62a9c7c08ff6441a2952dad3.png)https://assets.stickpng.com/images/62a9c7c08ff6441a2952dad3.png" alt="docker logo">
+    </a>
 </p>
+
 
