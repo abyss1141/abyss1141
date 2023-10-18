@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @abyss1141
-- 👀 I’m interested in learning Fullstackweb development
-- 🌱 I’m currently learning .netcore and vue.js
-- 📫 How to reach me .. Well u can email me at danielsallehco@gmail.com
+<p align="center">
+  👋 Hi,
+</p>
+ I’m @abyss1141 / Daniel. A web developer based in Malaysia.
+ If you are interested in working together you can reach me at <a href="mailto:danielsallehco@gmail.com">danielsallehco@gmail.com</a>
 
 <p align="center">
   <ins>🎓 KNOWLEDGE</ins>
