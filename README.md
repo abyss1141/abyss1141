@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="left">
   👋 Hi,
-</p>
+</h1>
  I’m @abyss1141 / Daniel. A web developer based in Malaysia.
  If you are interested in working together you can reach me at <a href="mailto:danielsallehco@gmail.com">danielsallehco@gmail.com</a>
 
