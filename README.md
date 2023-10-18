@@ -75,5 +75,5 @@
 </p>
 
 <p>
-  I have done dozens of deployments, some of them would be in docker containers, some as a service. Most of them are in either Linux or Microsoft. I don't have any experience in developing or deploying to any Apple products. But i would love to learn about them. 
+  I have done dozens of deployments on the cloud, VPS, or even locally offline. Some of them would be in docker containers, some as a service. Most of them are in either Linux or Microsoft. I don't have any experience in developing or deploying any project on Apple products. But I would love to learn about them. Some of the projects that have an online deployment that requires continuous integration would be done on GitHub actions. 
 </p>
