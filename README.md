@@ -1,14 +1,14 @@
 <h2 align="left">
   👋 Hi,
 </h2>
- I’m @abyss1141 / Daniel. A web developer based in Malaysia. Currently using .Net, Vuejs, and Typescript to build websites and software. With 6 years of coding experience, and 3 years working professionally. 
- If you are interested in working together feel free to reach me at <a href="mailto:danielsallehco@gmail.com">danielsallehco@gmail.com</a>
+ I’m @abyss1141 / Daniel. A web developer based in Malaysia. Currently using .Net, Vuejs, and Typescript to build websites and software. With 6 years of coding experience, and 3 years working professionally. My repository is empty because most of my work is private and PNC since most of the project is custom-made according to the client's requirement. 
+ If you are interested in working together or hiring feel free to reach me at <a href="mailto:danielsallehco@gmail.com">danielsallehco@gmail.com</a>. Looking forward to be working together!
 
 <h2 align="left">
   🎓 KNOWLEDGE
 </h2>
 <p>
-  Proficient in :-
+  Proficient in:-
 </p>
 <p align="center">
     <a href="https://vuetifyjs.com" target="_blank">
@@ -57,5 +57,3 @@
 
 <p>&nbsp;</p>
 
-
-Current Time(UTC): ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
