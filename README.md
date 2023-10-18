@@ -8,7 +8,7 @@
   🎓 KNOWLEDGE
 </h2>
 <p>
-  - proficient in:
+  Proficient in :-
 </p>
 <p align="center">
     <a href="https://vuetifyjs.com" target="_blank">
