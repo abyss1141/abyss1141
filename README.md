@@ -3,8 +3,6 @@
 </h2>
  I’m @abyss1141 / Daniel. A web developer based in Malaysia. Currently using .Net, Vuejs, and Typescript to build websites and software. With 6 years of coding experience, and 3 years working professionally. 
  If you are interested in working together feel free to reach me at <a href="mailto:danielsallehco@gmail.com">danielsallehco@gmail.com</a>
- 
-![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
 
 <h2 align="left">
   🎓 KNOWLEDGE
@@ -57,6 +55,7 @@
   Also 3 years in developing Frontend website using VueJs with Typescript. I prefer to use typescript nowadays as it is very strict and helpful in ensuring a low-bug environment. Some of the design frameworks that I use are Vuetify, Bootstrap, and Tailwind. Depends on the request of the customer or project requirements. I still have the skills to develop HTML and PHP websites but I prefer to use a modern framework.
 </p>
 
+<p>&nbsp;</p>
 
 
-
+Current Time(UTC): ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
