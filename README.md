@@ -79,10 +79,7 @@
 </p>
 
 ![GitHub Stats](https://your-vercel-instance.vercel.app/api?username=abyss1141&show_icons=true&theme=radical&count_private=true&hide=stars)
-## GitHub Stats
-
-![GitHub Stats](https://your-vercel-instance.vercel.app/api?username=abyss1141&show_icons=true&theme=radical&count_private=true)
-
-## Top Languages
 
 ![Top Langs](https://your-vercel-instance.vercel.app/api/top-langs/?username=abyss1141&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abyss1141&show_icons=true&theme=radical)
