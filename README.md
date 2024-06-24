@@ -78,8 +78,5 @@
   I have done dozens of deployments on the cloud, VPS, or even locally offline. Some of them would be in docker containers, some as a service. Most of them are in either Linux or Microsoft. I don't have any experience in developing or deploying any project on Apple products. But I would love to learn about them. Some of the projects that have an online deployment that requires continuous integration would be done on GitHub actions. 
 </p>
 
-![GitHub Stats](https://your-vercel-instance.vercel.app/api?username=abyss1141&show_icons=true&theme=radical&count_private=true&hide=stars)
-
-![Top Langs](https://your-vercel-instance.vercel.app/api/top-langs/?username=abyss1141&layout=compact&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abyss1141&show_icons=true&theme=radical)
